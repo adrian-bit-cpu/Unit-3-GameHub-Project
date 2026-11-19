@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/gamehub-starter"
+		},
+		{
+			"path": "../../Downloads/gamehub-day2-starter"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "gamehub-day2-starter"
+	}
+}
